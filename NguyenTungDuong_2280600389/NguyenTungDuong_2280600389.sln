@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NguyenTungDuong_2280600389", "NguyenTungDuong_2280600389\NguyenTungDuong_2280600389.csproj", "{BE4A4BBD-CEBA-4560-90F3-443FE2AA16C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MangaReader", "MangaReader\MangaReader.csproj", "{2DD26D67-A332-40AC-8F5A-43647E6A8659}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE4A4BBD-CEBA-4560-90F3-443FE2AA16C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE4A4BBD-CEBA-4560-90F3-443FE2AA16C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE4A4BBD-CEBA-4560-90F3-443FE2AA16C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE4A4BBD-CEBA-4560-90F3-443FE2AA16C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DD26D67-A332-40AC-8F5A-43647E6A8659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DD26D67-A332-40AC-8F5A-43647E6A8659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DD26D67-A332-40AC-8F5A-43647E6A8659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DD26D67-A332-40AC-8F5A-43647E6A8659}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
